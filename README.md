@@ -1,7 +1,5 @@
 <<<<<<< HEAD
-# Bsit3bcrud
-=======
-# bsit3bcrud
+
 
 A new Flutter project.
 
